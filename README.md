@@ -1,2 +1,2 @@
 # mod3_solution
-Coursera Mosule 3 solutions
+Coursera Module 3 solutions
